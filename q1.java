@@ -1,3 +1,4 @@
+//program to find whether pass or fail using logical operators and if else statement
 import java.util.Scanner;
 class demo{
     public static void main(String []args){
